@@ -2,4 +2,5 @@
 .notes-container {
     overflow-y: scroll;
     max-height: 300px;
+    max-width: 900px;
 }
