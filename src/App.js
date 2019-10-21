@@ -74,19 +74,19 @@ function TabContent(props) {
                     <th scope="row">Parvovirus</th>
                     <td>10/2019</td>
                     <td>10/2021</td>
-                    <td>@twitter</td>
+                    <td>A second vaccination is recommended after 1 year, then boosters every 3 years.</td>
                 </tr>
                 <tr>
                     <th scope="row">Sample</th>
                     <td>10/2019</td>
                     <td>10/2021</td>
-                    <td>@twitter</td>
+                    <td>A second vaccination is recommended after 1 year, then boosters every 3 years.</td>
                 </tr>
                 <tr>
                     <th scope="row">Sample</th>
                     <td>10/2019</td>
                     <td>10/2021</td>
-                    <td>@twitter</td>
+                    <td>A second vaccination is recommended after 1 year, then boosters every 3 years.</td>
                 </tr>
                 </tbody>
             </table>
